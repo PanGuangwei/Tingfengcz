@@ -9,8 +9,8 @@ The main version is 2.0 software source code. You can go to Releases to view the
 
 
 直接把code文件夹里面的TFGY999放进Android studio中即可
-Just put TFGY999 in the code folder into Android studio
 
+Just put TFGY999 in the code folder into Android studio
 
 成品APK我会逐步上传到版本噢
 
