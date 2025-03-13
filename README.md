@@ -20,7 +20,8 @@ The 2.0 software uses a simple frame duplication method, which greatly saves the
 The 10.0 software uses more advanced dynamic frame interpolation (optical flow jelly, etc.), the efficiency of frame interpolation is improved, but the device performance requirements are higher
 
 2.0的原理：
-![QQ_1741836487642](https://github.com/user-attachments/assets/976f1b3e-7380-4110-8da9-deb12e0c2975)
+![QQ_1741837002084](https://github.com/user-attachments/assets/02401910-fdaa-4bc5-9ae1-543919a7a2b1)
+
 
 
 10.0的原理（两者都采纳）：
