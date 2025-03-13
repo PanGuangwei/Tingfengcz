@@ -1,5 +1,4 @@
-![QQ_1741836723415](https://github.com/user-attachments/assets/6d42f75a-567f-41c5-9de5-50869938e334)# 听风屏幕实时插帧（安卓版）
-
+# 听风屏幕实时插帧（安卓版）
 
 Tingfeng real-time screen insertion (Android version)
 
@@ -38,6 +37,7 @@ The 10.0 software uses more advanced dynamic frame interpolation (optical flow j
 
 10.0软件的效果：
 ![QQ_1741836767672](https://github.com/user-attachments/assets/ff3dc889-0e0f-406a-a307-369cc94c7843)
+
 
 ![QQ_1741836793733](https://github.com/user-attachments/assets/91b6d6b5-8679-4a86-85e2-8278188c12c2)
 
