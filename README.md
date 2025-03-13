@@ -30,6 +30,9 @@ The 10.0 software uses more advanced dynamic frame interpolation (optical flow j
 
 
 2.0软件效果：
+![QQ_1741837140533](https://github.com/user-attachments/assets/879f525e-50c0-41bc-8c5c-db325f38003a)
+
+
 ![QQ_1741836541660](https://github.com/user-attachments/assets/1fcf32a0-0e3f-48e1-b955-51c38b099a83)
 
 
