@@ -1,6 +1,7 @@
 # 听风屏幕实时插帧（安卓版）
-#Tingfeng real-time screen insertion (Android version)
 
+
+Tingfeng real-time screen insertion (Android version)
 
 这是我借用埃隆马斯克的Grok 3、DeepseekR1打造的实时手机插帧补帧软件，我从Android studio上建立的
 
