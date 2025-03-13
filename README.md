@@ -10,9 +10,6 @@ This is a real-time mobile phone interpolation and frame filling software I buil
 
 The main version is 2.0 software source code. You can go to Releases to view the source code of each version.
 
-代码原理：
-![QQ_1741836444514](https://github.com/user-attachments/assets/7c494fe8-bbdc-469f-9bb1-78fecdb84943)
-
 
 我们补帧插帧的原理：
 2.0软件是采用简单的帧复制方法，这种方法大大的节省了设备性能地消耗以及使用体验（这里2.0软件的测试效果的话可能没效果，你可以帮我检查一下代码）
